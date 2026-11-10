@@ -1,5 +1,3 @@
-Sveta Bartholomew
-
 Information Science PhD Student | UW-Madison
 
 ## About
