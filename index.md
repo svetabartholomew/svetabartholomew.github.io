@@ -1,12 +1,13 @@
 <img src="photo.jpg" alt="Sveta Bartholomew"
      style="width:160px; max-width:160px; aspect-ratio:1/1; height:auto; object-fit:cover; object-position:center top; border-radius:50%; display:block;">
      
-     _SVYEH-tah_ /ˈsvɛtə/
-     Information Science PhD Student | UW-Madison
+  # Sveta Bartholomew
+  _SVYEH-tah_ /ˈsvjɛtə/ · PhD Student, Information School, UW-Madison
+
 
 ## About
 
-I am a Doctorate student at the Information School, University of Wisconsin-Madison working in areas of Computational Linguistics, Human Computer Interaction, and Human AI interaction. [Jacqueline Brixey](https://ischool.wisc.edu/staff/brixey-jacqueline/) is my advisor.  
+I am a PhD student at the Information School, University of Wisconsin-Madison working in areas of computational linguistics, human-computer interaction, and human-AI interaction. [Jacqueline Brixey](https://ischool.wisc.edu/staff/brixey-jacqueline/) is my advisor.  
 
 ## Areas of Interest
 
@@ -17,10 +18,10 @@ I am a Doctorate student at the Information School, University of Wisconsin-Madi
 
 ## Beyond Research
 
-🗣️ **Favorite phrase:** Holy cannoli!
-🔤 **Favorite word:** *macaronic*, writing that mixes languages
-📚 **Favorite book:** _The 7½ Deaths of Evelyn Hardcastle_ by Stuart Turton
-🧘 **Outside the university walls:** yoga, dance, and dark chocolate 🍫
+- 🗣️ **Favorite phrase:** Holy cannoli!
+- 🔤 **Favorite word:** *macaronic*, writing that mixes languages
+- 📚 **Favorite book:** _The 7½ Deaths of Evelyn Hardcastle_ by Stuart Turton
+- 🧘 **Outside the university walls:** yoga, dance, and dark chocolate 🍫
 
 ## Links
 
