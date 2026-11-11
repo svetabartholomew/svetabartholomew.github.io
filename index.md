@@ -19,11 +19,11 @@ Ethical and social questions raised by language technologies\
 
 **Favorite phrase:** Holy cannoli!\
 **Favorite word:** *macaronic*, writing that mixes languages\
-**Favorite book:** 📚 _The 7½ Deaths of Evelyn Hardcastle_ by Stuart Turton\
+**Favorite book:** _The 7½ Deaths of Evelyn Hardcastle_ by Stuart Turton 🔍 🕵️\
 **Outside the university walls:** yoga 🧘, dance, and dark chocolate 🍫\
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/svetabartholomew/)
-- [GitHub](https://github.com/svetabartholomew)
-- [Contact](mailto:sveta.bartholomew@wisc.edu)
+[LinkedIn](https://www.linkedin.com/in/svetabartholomew/)\
+[GitHub](https://github.com/svetabartholomew)\
+[Contact](mailto:sveta.bartholomew@wisc.edu)\
