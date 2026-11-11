@@ -26,4 +26,4 @@ Ethical and social questions raised by language technologies\
 
 [LinkedIn](https://www.linkedin.com/in/svetabartholomew/)\
 [GitHub](https://github.com/svetabartholomew)\
-[Contact](mailto:sveta.bartholomew@wisc.edu)\
+[Contact](mailto:sveta.bartholomew@wisc.edu)
