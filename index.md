@@ -1,5 +1,6 @@
-<img src="PXL_20260806_184622438.jpeg" alt="Sveta Bartholomew"
-     style="width:160px; height:160px; border-radius:50%; object-fit:cover;">
+<img src="photo.jpg" alt="Sveta Bartholomew"
+     style="width:160px; max-width:160px; aspect-ratio:1/1; height:auto; object-fit:cover; object-position:center top; border-radius:50%; display:block;">
+     
      _SVYEH-tah_ /ˈsvɛtə/
      Information Science PhD Student | UW-Madison
 
