@@ -1,6 +1,6 @@
-<img src="IMG_20260620_232058_549.jpeg" alt="Sveta Bartholomew"
+<img src="PXL_20260806_184622438.jpeg" alt="Sveta Bartholomew"
      style="width:160px; height:160px; border-radius:50%; object-fit:cover;">
-     
+     _SVYEH-tah_ /ˈsvɛtə/
      Information Science PhD Student | UW-Madison
 
 ## About
@@ -16,10 +16,10 @@ I am a Doctorate student at the Information School, University of Wisconsin-Madi
 
 ## Beyond Research
 
-- 🗣️ **Favorite phrase:** Holy cannoli!
-- 🔤 **Favorite word:** *macaronic*, writing that mixes languages
-- 📚 **Favorite books:** _The 7½ Deaths of Evelyn Hardcastle_ by Stuart Turton, _Wrong Place Wrong Time_ by Gillian McAllister
-- 🧘 **Outside the lab:** yoga, dance, and dark chocolate 🍫
+🗣️ **Favorite phrase:** Holy cannoli!
+🔤 **Favorite word:** *macaronic*, writing that mixes languages
+📚 **Favorite book:** _The 7½ Deaths of Evelyn Hardcastle_ by Stuart Turton
+🧘 **Outside the university walls:** yoga, dance, and dark chocolate 🍫
 
 ## Links
 
