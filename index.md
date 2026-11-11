@@ -1,4 +1,4 @@
-<img src="photo.jpg" alt="Sveta Bartholomew"
+<img src="IMG_20260620_232058_549.jpeg" alt="Sveta Bartholomew"
      style="width:160px; height:160px; border-radius:50%; object-fit:cover;">
      
      Information Science PhD Student | UW-Madison
