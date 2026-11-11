@@ -1,8 +1,7 @@
 <img src="PXL_20260806_184622438.jpeg" alt="Sveta Bartholomew"
      style="width:160px; max-width:160px; aspect-ratio:1/1; height:auto; object-fit:cover; object-position:center top; border-radius:50%; display:block;">
      
-  Sveta Bartholomew
-  _SVYEH-tah_ /ˈsvjɛtə/ · PhD Student, Information School, UW-Madison
+  Sveta ·_SVYEH-tah_ /ˈsvjɛtə/  
 
 
 ## About
