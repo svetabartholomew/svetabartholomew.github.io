@@ -10,17 +10,17 @@ I am a PhD student at the Information School, University of Wisconsin-Madison wo
 
 ## Areas of Interest
 
-- Computational linguistics and natural language processing
-- Code-switching
-- Language change under the influence of AI
-- Ethical and social questions raised by language technologies
+Computational linguistics and natural language processing
+Code-switching
+Language change under the influence of AI
+Ethical and social questions raised by language technologies
 
 ## Beyond Research
 
-- 🗣️ **Favorite phrase:** Holy cannoli!
-- 🔤 **Favorite word:** *macaronic*, writing that mixes languages
-- 📚 **Favorite book:** _The 7½ Deaths of Evelyn Hardcastle_ by Stuart Turton
-- 🧘 **Outside the university walls:** yoga, dance, and dark chocolate 🍫
+**Favorite phrase:** Holy cannoli!
+**Favorite word:** *macaronic*, writing that mixes languages
+**Favorite book: 📚 ** _The 7½ Deaths of Evelyn Hardcastle_ by Stuart Turton
+**Outside the university walls:** yoga 🧘, dance, and dark chocolate 🍫
 
 ## Links
 
