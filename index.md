@@ -20,7 +20,7 @@ Ethical and social questions raised by language technologies\
 **Favorite phrase:** Holy cannoli!\
 **Favorite word:** *macaronic*, writing that mixes languages\
 **Favorite book:** _The 7½ Deaths of Evelyn Hardcastle_ by Stuart Turton 🔍 🕵️\
-**Outside the university walls:** yoga 🧘, dance, and dark chocolate 🍫\
+**Outside the university walls:** yoga 🧘, dance, and dark chocolate 🍫
 
 ## Links
 
